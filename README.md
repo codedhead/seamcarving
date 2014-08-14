@@ -1,0 +1,4 @@
+seamcarving
+===========
+
+dependencies: Qt, OpenCV
